@@ -30,3 +30,9 @@ print(str)  # Output: Hello, asmi!
 #         print(key, value)
 
 # sum(name="asmi", age=21, mail="asmi@gmail.in")
+
+
+# def multi_return(name, city):
+#     return name, city
+
+# print(multi_return("asmi", "wani"))
