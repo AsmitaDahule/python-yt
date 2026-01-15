@@ -1,7 +1,3 @@
-year = int(input("\nenter year"))
-month = int(input("\nenter month like 1/2/3...."))
-
-
 
 month_days = {
   1 : 31,
@@ -37,5 +33,7 @@ def no_of_days(year, month):
 
           
 
+year = int(input("enter year: "))
+month = int(input("\nenter month like 1/2/3.... : "))
 
 no_of_days(year, month)
