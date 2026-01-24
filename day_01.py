@@ -1,0 +1,1 @@
+print("I accept the 100 days of code challenge !")
