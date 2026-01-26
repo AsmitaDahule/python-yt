@@ -12,3 +12,8 @@ print(tuple1)
 
 list1 = [["asmita", "anuuuu"],["titu", "samy"]]
 print(list1)
+
+a = input("Enter num1")
+b = input("Enter num2")
+
+print(a+b)
