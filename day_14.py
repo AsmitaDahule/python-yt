@@ -6,7 +6,10 @@
 #         print(letter)
 
 
-for k in range(3):
-    print("Outer loop iteration:", k)
-    for j in range(2):
-        print("  Inner loop iteration:", j)
+# for k in range(3):
+#     print("Outer loop iteration:", k)
+#     for j in range(2):
+#         print("  Inner loop iteration:", j)
+
+for k in range(1, 12, 3):
+    print(k)
