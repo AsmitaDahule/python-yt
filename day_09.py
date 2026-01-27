@@ -1,6 +1,7 @@
 # string methods
 
-name = "Asmi Dahule"
+name = "asmi dahule"
+print(name.capitalize())
 print(len(name))
 print(name[0:4])
 print(name[5:])
